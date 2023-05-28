@@ -4,3 +4,4 @@ This is a readme for the folder 0x01-git.
 
 This was created by Frederick.
 
+It's been a fun journey so far and I hope the rpogram runs smooth like this.
